@@ -1,3 +1,3 @@
-for running the project install mavem and run the following command:-
+for running the project install maven and run the following command:-
 
-mvn test
+#mvn test
